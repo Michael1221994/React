@@ -1,11 +1,9 @@
-import Card from './Card.tsx' 
+//import Card from './Card.tsx' 
+import Button from './Button.tsx'
 function App() {
   return(
     <>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
+      <Button />
     </>
    
   );
